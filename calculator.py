@@ -20,6 +20,6 @@ button2.grid(row=0, column=1)
 button3.grid(row=0, column=2)
 button4.grid(row=0, column=3)
 button5.grid(row=1, column=0)
-
+button6.grid(row=2, column=0)
 
 window.mainloop()
