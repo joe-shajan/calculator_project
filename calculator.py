@@ -12,6 +12,7 @@ button2 = Button(window, text="ok", width=5, height=1, bg="yellow", command=chan
 button3 = Button(window, text="ok", width=5, height=1, bg="yellow", command=changetext)
 button4 = Button(window, text="ok", width=5, height=1, bg="yellow", command=changetext)
 button5 = Button(window, text="ok", width=5, height=1, bg="yellow", command=changetext)
+button6 = Button(window, text="ok", width=5, height=1, bg="yellow", command=changetext)
 
 a = Label(window, text="welcome")
 
